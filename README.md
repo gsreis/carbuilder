@@ -8,5 +8,4 @@ O passo a passo para executtar está neste vídeo abaixo
 <img alt="Topologia do programa" src="topologia.png">
 
 
-<img  alt="passo a passo" src="https://youtu.be/WvyLn2Yol7c">
 [![Watch the video](video.png)(https://youtu.be/WvyLn2Yol7c)
