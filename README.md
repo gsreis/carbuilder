@@ -9,3 +9,4 @@ O passo a passo para executtar está neste vídeo abaixo
 
 
 <img  alt="passo a passo" src="https://youtu.be/WvyLn2Yol7c">
+[![Watch the video]](https://youtu.be/WvyLn2Yol7c)
